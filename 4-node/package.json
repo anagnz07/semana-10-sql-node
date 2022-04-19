@@ -1,0 +1,15 @@
+{
+  "name": "4-node",
+  "version": "1.0.0",
+  "description": "Crea un script de node que salude y pregunte por el estado de ánimo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
